@@ -3,8 +3,6 @@
 
 # Diccionario 2023 
 
-<img width="100%" src="https://img.freepik.com/vector-premium/monitor-computadora-pc-ilustracion-vector-elementos-casa-estilo-dibujos-animados_217290-574.jpg?w=360"
-
 ## Información
 
 |  Nombre: | Dereck Abraham Carranza Acifuina |
